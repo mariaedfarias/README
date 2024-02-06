@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou Maria Eduarda 👋</h1>
-  <p>Uma entusiasta da tecnologia apaixonado por desenvolvimento de software e aprendizado de máquina.</p>
+  <p>Apaixonada por desafios tecnológicos, sou uma estudante de Engenharia de Software dedicada a transformar conhecimento em soluções inovadoras. Atualmente, estou trilhando meu caminho na área de dados, contribuindo para o desenvolvimento de sistemas robustos e eficientes.</p>
   
   <h3>🚀 Tecnologias e Ferramentas</h3>
   <p>
@@ -10,13 +10,12 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
   </p>
   
   <h3> Atualmente Estudando</h3>
-  <p>Data Science</p>
+  <p>Data Science, Engenharia de Software, Sistemas</p>
   
   <h3> Experiência</h3>
   <p>Estagiária de dados na Equatorial Energia (2023 - Atual)</p>
