@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Olá! Eu sou [Seu Nome] 👋</h1>
-  <p>Um entusiasta da tecnologia apaixonado por desenvolvimento de software e aprendizado de máquina.</p>
+  <h1>Olá! Eu sou Maria Eduarda 👋</h1>
+  <p>Uma entusiasta da tecnologia apaixonado por desenvolvimento de software e aprendizado de máquina.</p>
   
   <h3>🚀 Tecnologias e Ferramentas</h3>
   <p>
@@ -15,16 +15,16 @@
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
   </p>
   
-  <h3>🌱 Atualmente Estudando</h3>
-  <p>Machine Learning, Deep Learning, Docker</p>
+  <h3> Atualmente Estudando</h3>
+  <p>Data Science</p>
   
-  <h3>💼 Experiência</h3>
-  <p>Desenvolvedor de Software na [Empresa] (Ano - Atual)</p>
+  <h3> Experiência</h3>
+  <p>Estagiária de dados na Equatorial Energia (2023 - Atual)</p>
+  <p>Estagiária na Sollys Slz (2022-2023)</p>
   
-  <h3>📫 Contato</h3>
+  <h3> Contato</h3>
   <p>
-    <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://linkedin.com/in/seuperfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://twitter.com/seuperfil" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="mailto:mariaeduardamff@outlook.com.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="[https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/maria-eduarda-farias-92150324b/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
 </div>
